@@ -4,7 +4,7 @@ title: Development Overview
 ---
 
 ## Intro
-Before getting in to what's what thought I'd but a few thoughts down about my experience in software development. It's just my opinion and I'll throw in more as and when I think of things that I think work or don't. It isn't the de-facto way of doing things. 
+Before getting in to what's what thought I'd put a few thoughts down about my experience in software development. It's just my opinion and I'll throw in more as and when I think of things that I think work or don't. It isn't the de-facto way of doing things. 
     
 
 ### C# Software Development
@@ -24,7 +24,7 @@ I think the Agile way of working works really well in keeping projects flowing a
 It is essential to the success of the project that everyone meets regularly. Daily scrums can highlight any bottlenecks and allow everyone to help each other.
 Client meetings should be held at the end of the sprint only if there is anything cool to show and ideally should contain at least one developer to pass any feeback to the team in a technical way.
 
-We may feel that as developers we know always know best and that extra cool functionality is just what the client needs, but really preventing squirreling/scope creep is really important to getting a system finished. Super cool functionality can always be suggested but only implemented if the client understands the cost time implications.
+We may feel that as developers we always know best and that extra cool functionality is just what the client needs, but really preventing squirreling/scope creep is really important to getting a system finished. Super cool functionality can always be suggested but only implemented if the client understands the cost time implications.
 
 A good test team is another suoer important part of the development process. Developers will always tell you it is not their code or the user shouldn't have done this or pressed that, but ultimately all these errors need handling in an elegant manner.
 
