@@ -3,7 +3,7 @@ layout: post
 title: Software Key Concepts
 ---
 
-## Intro
+# Intro
 
 Key concepts around building software. 
     
